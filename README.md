@@ -13,4 +13,4 @@ Initiang new enviroment
 > source nome_ambiente/bin/activate
 
 Installing requirements.txt
-> pip installl requirements.txt
+> pip installl -r requirements.txt
